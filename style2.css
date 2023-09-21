@@ -1,0 +1,25 @@
+@media (min-width: 576px) {
+    .principal {
+        background-image: url(aomossar.jpg);
+    }
+}
+@media (min-width: 768px) {
+    .principal {
+        background-image: url(aomosso.jpg);
+    }
+}
+@media (min-width: 992px) {
+    .principal {
+        background-image: url(aomossar2.jpg);
+    }
+}
+@media (min-width: 1200px) {
+    .principal {
+        background-image: url(jacare.baitola.jpg);
+    }
+}
+@media (min-width: 1400px) {
+    .principal {
+        background-image: url(naoseioq.jpg);
+    }
+}

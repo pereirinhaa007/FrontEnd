@@ -1,0 +1,10 @@
+:root {
+    --primary: rgb(145, 32, 32);
+    --secondary: rgb(0, 128, 0);
+}
+.text-primary{
+    color: var(--primary) !important;
+}
+.bg-sucess{
+    color: var(--secondary);
+}
